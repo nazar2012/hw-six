@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/nazar2012/hw-six/issues"
   },
-  "homepage": "https://nazar2012.github.io/hw-six",
+  "homepage": "https://nazar2012.github.io/hw-six/",
   "devDependencies": {
     "parcel": "^2.12.0",
     "gh-pages": "^6.0.0"
