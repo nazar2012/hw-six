@@ -1,0 +1,2 @@
+let e=document.getElementById("num1"),t=document.getElementById("num2"),u=document.getElementById("operation"),n=document.getElementById("result");document.getElementById("calcBtn").addEventListener("click",()=>{let d,a=Number(e.value),c=Number(t.value);switch(u.value){case"add":d=a+c;break;case"subtract":d=a-c;break;case"multiply":d=a*c;break;case"divide":d=0===c?"Ділення на нуль!":a/c}n.textContent=`\u{420}\u{435}\u{437}\u{443}\u{43B}\u{44C}\u{442}\u{430}\u{442}: ${d}`});
+//# sourceMappingURL=hw-six.2b1eb0e3.js.map
